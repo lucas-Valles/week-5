@@ -1,0 +1,20 @@
+.orangeBox{
+    background-color: orange;
+width: 100%;
+height: 100px;
+margin: 10px;
+color: aliceblue;
+/* changes the font */
+font size: 80px;
+/* centers the text */
+text-align: center;
+padding: 20px
+display: inline-block
+}
+
+.parDecoration{
+color:bisque
+font-size: 25px
+font-weight: bold;
+font-style: italic
+}
